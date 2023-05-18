@@ -1,5 +1,8 @@
 <h2 align="center">Hi 👋, I'm Volodymyr Proniuk</h2>
-<h4 align="left">Goal oriented and responsible, try to be the best copy of myself every day</h4>
+
+---
+
+<h4 align="left">Goal-driven and responsible, continuously refining myself to reach new heights.</h4>
 
 ---
 
