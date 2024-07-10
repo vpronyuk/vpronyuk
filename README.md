@@ -7,7 +7,7 @@
 ---
 
 
-- 🌱 I’m currently learning: **React, React Native**
+- 🌱 I’m currently learning: **NodeJS...**
 
 <!-- - 📫 How to reach me **vpronyuk@gmail.com** -->
 ---
